@@ -34,22 +34,28 @@ function Experience() {
                                 <h3
                                     className="flex items-center mb-1 text-lg font-semibold text-gray-200 dark:text-white"
                                     data-aos="fade-right">
-                                    Finance and Operations Intern, Shashwat Real Estate 
+                                    Supply Chain Analyst, Bristol-Myers Squibb
                                 </h3>
                                 <time
                                     className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
                                     data-aos="fade-right">
-                                    June 2024 - August 2024
+                                    September 2025 - Current
                                 </time>
                                 <ul className="space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
                                     <li data-aos="fade-right">
-                                        Supported the preparation of detailed budgets and financial reports for various projects, ensuring accuracy in cash flow analysis, expenditure tracking, and revenue forecasting.
+                                        Evaluated demand and supply signals in SAP S/4HANA to uncover planning gaps, driving a 15% increase in forecast accuracy across assigned SKUs.
                                     </li>
                                     <li data-aos="fade-right">
-                                        Streamlined the invoice processing system and collaborated across departments to enhance transaction tracking, resulting in improved efficiency in payment collection.
+                                        Designed Power BI reporting solutions for inventory and service KPIs, accelerating executive visibility and improving decision turnaround time by 25%.
                                     </li>
                                     <li data-aos="fade-right">
-                                        Collaborated with Procurement and Sales teams to develop client quotations and vendor tenders, contributing to successful contract negotiations and operational efficiency.
+                                        Executed safety stock and capacity assessments to rebalance inventory positioning, resulting in a 12% decline in excess stock within scope.
+                                    </li>
+                                    <li data-aos="fade-right">
+                                        Diagnosed supply risks through structured root cause investigations and FMEA methodologies, lowering disruption exposure by 15%.
+                                    </li>
+                                    <li data-aos="fade-right">
+                                        Delivered cost-to-serve insights through quantitative analysis, enabling operational efficiency gains of roughly 10%.
                                     </li>
                                 </ul>
                             </li>
@@ -68,22 +74,28 @@ function Experience() {
                                 <h3
                                     className="mb-1 text-lg font-semibold text-gray-900 dark:text-white"
                                     data-aos="fade-right">
-                                    Simulation Assistant, Edson Grace Center 
+                                    Procurement Intern, American Airlines 
                                 </h3>
                                 <time
                                     className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
                                     data-aos="fade-right">
-                                    February 2024 - May 2024
+                                    June 2025 - August 2025
                                 </time>
                                 <ul className="space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
                                     <li data-aos="fade-right">
-                                        Ensuring the timely supply of medical equipment to enable smooth laboratory simulations for students of Nursing College.
+                                         Contributed to Professional Services sourcing initiatives, influencing procurement decisions tied to $900M+ in annual expenditure.
                                     </li>
                                     <li data-aos="fade-right">
-                                        Affirming we have the right amount of required equipment at all times and avoid running out of stock by managing our inventory effectively.
+                                        Assessed supplier bids and conducted competitive price benchmarking, enabling sourcing outcomes that generated 8% cost reductions.
                                     </li>
                                     <li data-aos="fade-right">
-                                        Assisting the Procurement team in ordering essential types of medical equipment by creating and analyzing inventory data.
+                                        Elevated spend transparency and policy adherence by 20% using Coupa, Sievo, and advanced Excel analytics.
+                                    </li>
+                                    <li data-aos="fade-right">
+                                        Tracked supplier performance metrics and reviewed contractual terms, shortening sourcing cycle inefficiencies by 12%.
+                                    </li>
+                                    <li data-aos="fade-right">
+                                        Partnered with finance and operations teams to align vendor strategies with cost and performance objectives.
                                     </li>
                                 </ul>
                             </li>
@@ -121,40 +133,7 @@ function Experience() {
                                     </li>
                                 </ul>
                             </li>
-                            <li className="mb-10 ms-6">
-                                <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
-                                    <svg
-                                        className="w-2.5 h-2.5 text-blue-800 dark:text-blue-300"
-                                        aria-hidden="true"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="currentColor"
-                                        viewBox="0 0 20 20"
-                                    >
-                                        <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z" />
-                                    </svg>
-                                </span>
-                                <h3
-                                    className="mb-1 text-lg font-semibold text-gray-900 dark:text-white"
-                                    data-aos="fade-right">
-                                    Supply Chain Assistant, Keshav Infrastructure Pvt. Ltd 
-                                </h3>
-                                <time
-                                    className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-                                    data-aos="fade-right">
-                                    January 2022 - April 2022
-                                </time>
-                                <ul className="space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
-                                    <li data-aos="fade-right">
-                                        Assisted the Purchasing Team in vendor selection, negotiation, and contract management, contributing to cost savings of a total of 10,000 dollars and quality improvement.
-                                    </li>
-                                    <li data-aos="fade-right">
-                                        Conducted market research to identify cost-effective suppliers, resulting in optimized sourcing strategies and reduced procurement lead times.
-                                    </li>
-                                    <li data-aos="fade-right">
-                                        Collaborated cross-functionally to simplify purchase order processing and inventory management, enhancing overall supply chain efficiency.
-                                    </li>
-                                </ul>
-                            </li>
+                            
                         </ol>
                     </div>
                 </div>
